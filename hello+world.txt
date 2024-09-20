@@ -1,0 +1,2 @@
+"Hello Odin!"
+"This Git course is really cool!"
